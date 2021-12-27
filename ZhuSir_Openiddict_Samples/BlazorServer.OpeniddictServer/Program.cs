@@ -109,7 +109,7 @@ builder.Services.AddOpenIddict()
                        .AllowRefreshTokenFlow();
 
 
-        options.RegisterScopes(Scopes.Email, Scopes.Profile, Scopes.Roles, "api1");
+        options.RegisterScopes(Scopes.Email, Scopes.Profile, Scopes.Roles); // no need "api1"
 
         options.AddDevelopmentEncryptionCertificate()
                        .AddDevelopmentSigningCertificate();
@@ -125,7 +125,7 @@ builder.Services.AddOpenIddict()
     })
     .AddValidation(options =>
     {
-        options.AddAudiences("resource_server_1");
+        //options.AddAudiences("resource_server_1");  // no need audiences
 
         options.UseLocalServer();
 
