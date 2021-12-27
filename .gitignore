@@ -1,0 +1,8 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/ZhuSir_Openiddict_Samples/BlazorServer.Api1/obj
+/ZhuSir_Openiddict_Samples/BlazorServer.Client/obj
+/ZhuSir_Openiddict_Samples/BlazorServer.OpeniddictServer/obj
+/ZhuSir_Openiddict_Samples/.vs/ZhuSir_Openiddict_Samples/v17
