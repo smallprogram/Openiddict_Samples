@@ -10,3 +10,11 @@
 /ZhuSir_Openiddict_Samples/.vs/ZhuSir_Openiddict_Samples
 /ZhuSir_Openiddict_Samples/BlazorServer.Client/bin/Debug/net6.0
 /ZhuSir_Openiddict_Samples/BlazorServer.OpeniddictServer/bin/Debug/net6.0
+/ZhuSir_Openiddict_Samples/Smallprogram.Api1/bin/Debug/net6.0
+/ZhuSir_Openiddict_Samples/Smallprogram.Api1/obj
+/ZhuSir_Openiddict_Samples/Smallprogram.BlazorServerClient/bin/Debug/net6.0
+/ZhuSir_Openiddict_Samples/Smallprogram.BlazorServerClient/obj
+/ZhuSir_Openiddict_Samples/Smallprogram.BlazorWasmClient/bin/Debug/net6.0
+/ZhuSir_Openiddict_Samples/Smallprogram.BlazorWasmClient/obj
+/ZhuSir_Openiddict_Samples/Smallprogram.Server/bin/Debug/net6.0
+/ZhuSir_Openiddict_Samples/Smallprogram.Server/obj
